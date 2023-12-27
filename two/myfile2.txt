@@ -1,0 +1,6 @@
+this is the best file in php.you can read this file for sure.
+this is another file folder.
+this is another file folder1.
+this is another file folder2.this is start to appended to the file. 
+this is start to appended to the file. 
+this is start to appended to the file. 
